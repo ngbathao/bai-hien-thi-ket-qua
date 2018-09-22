@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>su dung toan tu</title>
+
+    <button type="button" onclick="showMessage();">Click Me!</button>
+    <script>
+        function showMessage(){
+            console.log('Xin chào!');
+        }
+    </script>
+
+
+</head>
+<body>
+
+</body>
+</html>
